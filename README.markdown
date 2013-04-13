@@ -48,3 +48,7 @@ This little tool was built using the ideology called "Scratch your own itch".
 It means that this tool is experimental, and you will use it on your own risk.
 
 Running **lolserver** on wifi network opens your file system to everyone on that network if your firewall does not block incoming connections on port 4567. So please be careful.
+
+## AUTHOR ##
+
+[@tuomasj](http://www.twitter.com/tuomasj) - [Tuomas Jomppanen](http://www.jomppanen.com)
