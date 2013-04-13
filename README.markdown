@@ -2,6 +2,7 @@
 
 Lolserver is static web server, that hosts your current directory in [http://localhost:4567](http://localhost:4567). It also renders markdown documents.
 
+For example, if you run **lolserver** in lolserver project folder, it will render a directory index if ```index.html``` is missing.
 ![Directory Index](directory-index.png)
 
 ## INSTALL ##
