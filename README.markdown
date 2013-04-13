@@ -10,11 +10,11 @@ Lolserver is static web server, that hosts your current directory in [http://loc
 
 #### Mac OS X / Linux ####
 
-Optional: You need to install Ruby. I'd suggest you use [https://github.com/sstephenson/rbenv/](rbenv).
+Optional: You need to install Ruby. I'd suggest you use [rbenv](https://github.com/sstephenson/rbenv/).
 
 #### Windows ####
 
-If you are running Windows, use [http://rubyinstaller.org](rubyinstaller.org).
+If you are running Windows, use [rubyinstaller.org](http://rubyinstaller.org).
 
 ### INSTALL LOLSERVER ###
 
@@ -28,7 +28,7 @@ gem install lolserver-0.0.1.gem
 
 ### DEPENDENCIES ###
 
-**lolserver** has only one dependency, which is [http://sinatrarb.com](sinatra).
+**lolserver** has only one dependency, which is [sinatra](http://sinatrarb.com).
 
 ## RUNNING ##
 
@@ -39,7 +39,7 @@ cd your/project/folder
 lolserver
 ´´´
 
-Then, open your browser on [http://localhost:4567](http://localhost:4567).
+Then, open your browser on (http://localhost:4567)[http://localhost:4567].
 
 ## DISCLAIMER ##
 
