@@ -37,7 +37,7 @@ Open console window, go to the directory of your choise and start **lolserver**.
 ```
 cd your/project/folder
 lolserver
-´´´
+``
 
 Then, open your browser on (http://localhost:4567)[http://localhost:4567].
 
