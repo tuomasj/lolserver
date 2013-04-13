@@ -8,9 +8,11 @@ Lolserver is static web server, that hosts your current directory in [http://loc
 
 You can install this gem from github.
 
-```git clone http://github.com/tuomasj/lolserver
+```
+git clone http://github.com/tuomasj/lolserver
 gem build localserver
-gem install localserver-0.0.0```
+gem install localserver-0.0.0
+```
 
 ## DISCLAIMER ##
 
