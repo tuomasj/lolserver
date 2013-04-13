@@ -40,7 +40,7 @@ cd your/project/folder
 lolserver
 ```
 
-Then, open your browser on (http://localhost:4567)[http://localhost:4567].
+Then, open your browser on [http://localhost:4567](http://localhost:4567).
 
 ## DISCLAIMER ##
 
